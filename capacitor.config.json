@@ -1,0 +1,8 @@
+{
+  "appId": "com.arthurpontes.caderneta",
+  "appName": "Caderneta",
+  "webDir": "www",
+  "android": {
+    "backgroundColor": "#2c3fb5"
+  }
+}
